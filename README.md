@@ -9,7 +9,7 @@ To demonstrate data modeling, DAX calculations, and interactive dashboard develo
 This interactive Power BI dashboard analyzes Spotify streaming data to uncover insights about song popularity, artist performance, album trends, and listening patterns. It transforms raw music data into meaningful business intelligence for better analytical decision-making.
 
 ---
-
+![Dashboard Preview](https://github.com/Saijal-choudhary/Spotify-Trend-Analysis/blob/main/Dashboard%20Snapshots/Overview%20Snapshot.png)
 ## 2️⃣ Tech Stack
 
 - Power BI Desktop  
